@@ -7,7 +7,7 @@
               <div class="capsule" style="width:140px; top:7px;position:relative;"><h6>Farm to consumer <a href="/knowledgebase" alt="Tiny Food hyper-local food production, transportation and distribution Knowledgebase by SCD Hub">knowledgebase</a>, <a href="/start-a-hub">start a Hub</a>,</h6></div>
         <ul>
           <nuxt-link to="/staples"><li>Staple Foods</li></nuxt-link>
-          <nuxt-link to="/herbs"><li>Medicinal Herbs</li></nuxt-link>
+          <nuxt-link to="/medicinals"><li>Medicinal Herbs</li></nuxt-link>
           <nuxt-link to="/produce"><li>Fresh Produce</li></nuxt-link>
           <nuxt-link to="/sale"><li>Shared Shopping</li></nuxt-link>
      
